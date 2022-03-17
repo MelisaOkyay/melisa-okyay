@@ -52,4 +52,9 @@ body {
 }
 .nameheader{
 	font-family: 'Dancing Script', cursive;
+	color: whitesmoke;
+}
+.nameheader2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 60px;
 }
